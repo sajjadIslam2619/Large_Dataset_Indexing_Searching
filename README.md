@@ -5,9 +5,9 @@
 3. Positional index
 
 Example: 
-File_1 : A duplicate word list. Duplicate words testing. My late night snacks is grape.
-File_2 : A duplicate word list. Duplicate words testing. Python project in progress.
-File_3 : A duplicate word list testing. Duplicate words exists. Wearing jacket but no sandal. Feeling cold.
+- File_1 : A duplicate word list. Duplicate words testing. My late night snacks is grape.
+- File_2 : A duplicate word list. Duplicate words testing. Python project in progress.
+- File_3 : A duplicate word list testing. Duplicate words exists. Wearing jacket but no sandal. Feeling cold.
 
 Inverted Index 
 - Tokenized
