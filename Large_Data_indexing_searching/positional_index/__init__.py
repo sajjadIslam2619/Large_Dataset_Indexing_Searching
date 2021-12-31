@@ -48,7 +48,7 @@ def create_positional_index():
 # Search query preparation and execution
 #############################################
 index_dict = create_positional_index()
-# print('positional index dict -> ', index_dict)
+print('positional index -> ', index_dict)
 # print('Clean data dict -> ', clean_data_dict)
 
 query = 'a duplicate word list testing'

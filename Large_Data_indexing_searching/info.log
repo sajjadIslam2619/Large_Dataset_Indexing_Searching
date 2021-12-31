@@ -325,3 +325,27 @@ INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Dat
 INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
 INFO:root:get_clean_data ran in: 0.0009999275207519531 sec
 INFO:root:create_positional_index ran in: 0.0016438961029052734 sec
+INFO:root:create_inverted_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('inverted index', {'file_1.txt': 'A duplicate word list. Duplicate words testing. My late night snacks is grape.\n', 'file_2.txt': 'A duplicate word list. Duplicate words testing. Python project in progress.\n', 'file_3.txt': 'A duplicate word list testing. Duplicate words exists. Wearing jacket but no sandal. Feeling cold.\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0025162696838378906 sec
+INFO:root:create_inverted_index ran in: 0.003242969512939453 sec
+INFO:root:create_bi_word_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('biword index', {'file_1.txt': 'A duplicate word list. Duplicate words testing. My late night snacks is grape.\n', 'file_2.txt': 'A duplicate word list. Duplicate words testing. Python project in progress.\n', 'file_3.txt': 'A duplicate word list testing. Duplicate words exists. Wearing jacket but no sandal. Feeling cold.\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0010728836059570312 sec
+INFO:root:create_bi_word_index ran in: 0.0019309520721435547 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list. Duplicate words testing. My late night snacks is grape.\n', 'file_2.txt': 'A duplicate word list. Duplicate words testing. Python project in progress.\n', 'file_3.txt': 'A duplicate word list testing. Duplicate words exists. Wearing jacket but no sandal. Feeling cold.\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0010120868682861328 sec
+INFO:root:create_positional_index ran in: 0.0019299983978271484 sec

@@ -36,7 +36,7 @@ def create_inverted_index():
 #############################################
 
 index_dict = create_inverted_index()
-# print(index_dict)
+print('Inverted index -> ',index_dict)
 
 # query list
 # query 1 : duplicate and word or night and late

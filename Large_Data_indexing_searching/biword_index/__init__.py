@@ -33,7 +33,7 @@ def create_bi_word_index():
 #############################################
 
 index_dict = create_bi_word_index()
-# print(index_dict)
+print('Bi-word Index -> ',index_dict)
 
 query = 'a duplicate word list'
 tokenize_query = tk.word_tokenize(query)
