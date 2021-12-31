@@ -1,0 +1,327 @@
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009570121765136719 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0008571147918701172 sec
+INFO:root:create_positional_index ran in: 0.001161813735961914 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009639263153076172 sec
+INFO:root:create_positional_index ran in: 0.0013039112091064453 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009300708770751953 sec
+INFO:root:create_positional_index ran in: 0.0019457340240478516 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009341239929199219 sec
+INFO:root:create_positional_index ran in: 0.0017240047454833984 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009918212890625 sec
+INFO:root:create_positional_index ran in: 0.0016942024230957031 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0008819103240966797 sec
+INFO:root:create_positional_index ran in: 0.0019080638885498047 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0010399818420410156 sec
+INFO:root:create_positional_index ran in: 0.0018589496612548828 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word doc. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009491443634033203 sec
+INFO:root:create_positional_index ran in: 0.0015168190002441406 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0010700225830078125 sec
+INFO:root:create_positional_index ran in: 0.0014159679412841797 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009751319885253906 sec
+INFO:root:create_positional_index ran in: 0.0013170242309570312 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009889602661132812 sec
+INFO:root:create_positional_index ran in: 0.0017461776733398438 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0018100738525390625 sec
+INFO:root:create_positional_index ran in: 0.002151966094970703 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009100437164306641 sec
+INFO:root:create_positional_index ran in: 0.001219034194946289 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009779930114746094 sec
+INFO:root:create_positional_index ran in: 0.00131988525390625 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0010330677032470703 sec
+INFO:root:create_positional_index ran in: 0.002035856246948242 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.001004934310913086 sec
+INFO:root:create_positional_index ran in: 0.0021789073944091797 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009701251983642578 sec
+INFO:root:create_positional_index ran in: 0.002131938934326172 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009379386901855469 sec
+INFO:root:create_positional_index ran in: 0.0012509822845458984 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009219646453857422 sec
+INFO:root:create_positional_index ran in: 0.0012240409851074219 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009903907775878906 sec
+INFO:root:create_positional_index ran in: 0.0013170242309570312 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.001008749008178711 sec
+INFO:root:create_positional_index ran in: 0.0021402835845947266 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009829998016357422 sec
+INFO:root:create_positional_index ran in: 0.0021228790283203125 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0010700225830078125 sec
+INFO:root:create_positional_index ran in: 0.0015130043029785156 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0010821819305419922 sec
+INFO:root:create_positional_index ran in: 0.0014598369598388672 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009353160858154297 sec
+INFO:root:create_positional_index ran in: 0.0012559890747070312 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0010120868682861328 sec
+INFO:root:create_positional_index ran in: 0.002235889434814453 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0008549690246582031 sec
+INFO:root:create_positional_index ran in: 0.0011708736419677734 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.000985860824584961 sec
+INFO:root:create_positional_index ran in: 0.001329183578491211 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.001001119613647461 sec
+INFO:root:create_positional_index ran in: 0.001341104507446289 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.001088857650756836 sec
+INFO:root:create_positional_index ran in: 0.0014681816101074219 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0012161731719970703 sec
+INFO:root:create_positional_index ran in: 0.00215911865234375 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0010797977447509766 sec
+INFO:root:create_positional_index ran in: 0.0024530887603759766 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0010161399841308594 sec
+INFO:root:create_positional_index ran in: 0.0014719963073730469 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.001088857650756836 sec
+INFO:root:create_positional_index ran in: 0.0015957355499267578 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009047985076904297 sec
+INFO:root:create_positional_index ran in: 0.0012760162353515625 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0010037422180175781 sec
+INFO:root:create_positional_index ran in: 0.0013599395751953125 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009710788726806641 sec
+INFO:root:create_positional_index ran in: 0.0012862682342529297 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009322166442871094 sec
+INFO:root:create_positional_index ran in: 0.0018279552459716797 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0010349750518798828 sec
+INFO:root:create_positional_index ran in: 0.0021021366119384766 sec
+INFO:root:create_positional_index Ran with args: (), and kwargs: {}
+INFO:root:read_directory Ran with args: (), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_1.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_2.txt',), and kwargs: {}
+INFO:root:read_text_file Ran with args: ('/Users/sajjadislam/Documents/Large_Data Index and Search/Project/Large_Data_indexing_searching/util/../Large_Dataset_test/file_3.txt',), and kwargs: {}
+INFO:root:get_clean_data Ran with args: ('positional index', {'file_1.txt': 'A duplicate word list testing. Duplicate words. late night grape.\n', 'file_2.txt': 'A duplicate word list testing. Duplicate words. Ugly face.\n', 'file_3.txt': 'A duplicate word list. Duplicate words. Nipu wear glasses but no sandal. looks ugly\n'}), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.0009999275207519531 sec
+INFO:root:create_positional_index ran in: 0.0016438961029052734 sec
