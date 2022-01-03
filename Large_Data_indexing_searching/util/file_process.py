@@ -41,6 +41,7 @@ def read_directory():
             read_text_file(file_path)
 
 
+'''
 @logger
 def read_from_directory():
     current_path = os.path.abspath(os.path.dirname(__file__))
@@ -55,7 +56,7 @@ def read_from_directory():
             # call read text file function
             read_text_file(file_path)
 
-
+'''
 '''
 @spent_time_measure
 @logger

@@ -30,7 +30,7 @@ def get_clean_data(indexing_type, file_data_dict):
         stemmed_words = [stemmer.stem(word) for word in tokenize_words]
         # print(stemmed_words)
 
-        if indexing_type == 'inverted index':
+        if indexing_type == 'inverted index' or 'vector_space_model':
             # remove stop words
             stop_words = tk.corpus.stopwords.words("english")
             clean_words = [word for word in stemmed_words if not word.lower() in stop_words]
@@ -41,3 +41,4 @@ def get_clean_data(indexing_type, file_data_dict):
         clean_data_dict[file_name] = clean_words
 
     return clean_data_dict
+
