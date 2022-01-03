@@ -32,3 +32,9 @@ Positional Index
 - Index
 
 {'a': {'file_1.txt': [0], 'file_2.txt': [0], 'file_3.txt': [0]}, 'duplic': {'file_1.txt': [1, 4], 'file_2.txt': [1, 4], 'file_3.txt': [1, 5]}, 'word': {'file_1.txt': [2, 5], 'file_2.txt': [2, 5], 'file_3.txt': [2, 6]}, 'list': {'file_1.txt': [3], 'file_2.txt': [3], 'file_3.txt': [3]}, 'test': {'file_1.txt': [6], 'file_2.txt': [6], 'file_3.txt': [4]}, 'my': {'file_1.txt': [7]}, 'late': {'file_1.txt': [8]}, 'night': {'file_1.txt': [9]}, 'snack': {'file_1.txt': [10]}, 'is': {'file_1.txt': [11]}, 'grape': {'file_1.txt': [12]}, 'python': {'file_2.txt': [7]}, 'project': {'file_2.txt': [8]}, 'in': {'file_2.txt': [9]}, 'progress': {'file_2.txt': [10]}, 'exist': {'file_3.txt': [7]}, 'wear': {'file_3.txt': [8]}, 'jacket': {'file_3.txt': [9]}, 'but': {'file_3.txt': [10]}, 'no': {'file_3.txt': [11]}, 'sandal': {'file_3.txt': [12]}, 'feel': {'file_3.txt': [13]}, 'cold': {'file_3.txt': [14]}}
+
+
+# Vector Space Model
+- Document similarity check
+- TF, IDF
+- Cosine similarity
