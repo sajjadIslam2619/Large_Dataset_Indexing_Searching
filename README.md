@@ -25,7 +25,7 @@ Bi-word Index
 
 {'a duplic': ['file_1.txt', 'file_2.txt', 'file_3.txt'], 'duplic word': ['file_1.txt', 'file_2.txt', 'file_3.txt'], 'word list': ['file_1.txt', 'file_2.txt', 'file_3.txt'], 'list duplic': ['file_1.txt', 'file_2.txt'], 'word test': ['file_1.txt', 'file_2.txt'], 'test my': ['file_1.txt'], 'my late': ['file_1.txt'], 'late night': ['file_1.txt'], 'night snack': ['file_1.txt'], 'snack is': ['file_1.txt'], 'is grape': ['file_1.txt'], 'test python': ['file_2.txt'], 'python project': ['file_2.txt'], 'project in': ['file_2.txt'], 'in progress': ['file_2.txt'], 'list test': ['file_3.txt'], 'test duplic': ['file_3.txt'], 'word exist': ['file_3.txt'], 'exist wear': ['file_3.txt'], 'wear jacket': ['file_3.txt'], 'jacket but': ['file_3.txt'], 'but no': ['file_3.txt'], 'no sandal': ['file_3.txt'], 'sandal feel': ['file_3.txt'], 'feel cold': ['file_3.txt']}
 
-Poitional Index
+Positional Index
 - Tokenized
 - Stemming, punctuation remove
 - Posting [with word position]
